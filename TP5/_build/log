@@ -1,11 +1,11 @@
 # dune build main.exe
 # OCAMLPARAM: unset
 # Workspace root: "/mnt/c/Users/nafys/OneDrive/Bureau/Mon
-# Bureau/S6/Grammaire/TP5"
-$ /usr/bin/nproc > /tmp/dunee90848.output 2> /dev/null
+# Bureau/S6/Grammaire/Grammaire-et-analyse-lex/TP5"
+$ /usr/bin/nproc > /tmp/dune1d00cf.output 2> /dev/null
 # Auto-detected concurrency: 2
 # disable binary cache
-$ /usr/bin/ocamlc.opt -config > /tmp/dune0b9cd7.output
+$ /usr/bin/ocamlc.opt -config > /tmp/dune7ae8b6.output
 # Dune context:
 #  { name = "default"
 #  ; kind = "default"
@@ -24,21 +24,21 @@ $ /usr/bin/ocamlc.opt -config > /tmp/dune0b9cd7.output
 #  ; env =
 #      map
 #        { "CAML_LD_LIBRARY_PATH" :
-#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/TP5/_build/install/default/lib/stublibs"
+#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/Grammaire-et-analyse-lex/TP5/_build/install/default/lib/stublibs"
 #        ; "DUNE_OCAML_HARDCODED" : "/usr/lib/ocaml"
 #        ; "DUNE_OCAML_STDLIB" : "/usr/lib/ocaml"
 #        ; "DUNE_SOURCEROOT" :
-#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/TP5"
+#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/Grammaire-et-analyse-lex/TP5"
 #        ; "INSIDE_DUNE" :
-#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/TP5/_build/default"
+#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/Grammaire-et-analyse-lex/TP5/_build/default"
 #        ; "MANPATH" :
-#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/TP5/_build/install/default/bin"
+#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/Grammaire-et-analyse-lex/TP5/_build/install/default/bin"
 #        ; "OCAMLFIND_IGNORE_DUPS_IN" :
-#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/TP5/_build/install/default/lib"
+#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/Grammaire-et-analyse-lex/TP5/_build/install/default/lib"
 #        ; "OCAMLPATH" :
-#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/TP5/_build/install/default/lib"
+#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/Grammaire-et-analyse-lex/TP5/_build/install/default/lib"
 #        ; "OCAMLTOP_INCLUDE_PATH" :
-#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/TP5/_build/install/default/lib/toplevel"
+#            "/mnt/c/Users/nafys/OneDrive/Bureau/Mon Bureau/S6/Grammaire/Grammaire-et-analyse-lex/TP5/_build/install/default/lib/toplevel"
 #        ; "OCAML_COLOR" : "always"
 #        ; "OPAMCOLOR" : "always"
 #        }
